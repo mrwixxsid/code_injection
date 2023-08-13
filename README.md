@@ -1,6 +1,6 @@
 # Code Injector Tool
 
-The Code Injector Tool is a Python script that uses Scapy and NetfilterQueue to intercept and modify network traffic, specifically HTTP responses. This tool allows you to inject custom code into the HTML response body and perform keyword replacement in the HTTP response.
+The Code Injector Tool is a Python script that uses Scapy and NetfilterQueue to intercept and modify network traffic, specifically HTTP responses. This tool allows you to inject custom code into the HTML response body and perform keyword replacement in the HTTP response. 
 
 ## Requirements
 
