@@ -51,5 +51,5 @@ Replace `"example.com"` with the keyword you want to replace and set the `replac
 
 ## Disclaimer
 
-This tool is provided for educational and research purposes only. The author and OpenAI shall not be held responsible for any misuse or illegal activities conducted using this tool.
+This tool is provided for educational and research purposes only. The authr shall not be held responsible for any misuse or illegal activities conducted using this tool.
 
