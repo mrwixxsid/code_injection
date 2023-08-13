@@ -25,7 +25,7 @@ pip install scapy netfilterqueue
 2. Run the script as root (administrator) using the following command:
 
 ```sh
-sudo python code_injector.py
+sudo python3 code_injector.py
 ```
 
 3. The script will start intercepting network traffic and analyzing HTTP responses.
